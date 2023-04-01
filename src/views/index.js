@@ -1,0 +1,10 @@
+export { default as NewView } from './NewView.vue';
+export { default as ProductsView } from './ProductsView.vue';
+export { default as TrendingView } from './TrendingView.vue';
+export { default as LikedView } from './LikedView.vue';
+export { default as SavedView } from './SavedView.vue';
+export { default as UserProductsView } from  './UserProductsView.vue';
+export { default as ImageView } from  './ImageView.vue';
+export { default as PurchasedView } from  './PurchasedView.vue';
+export { default as UploadView } from  './UploadView.vue';
+export { default as ProfileView } from  './ProfileView.vue';
